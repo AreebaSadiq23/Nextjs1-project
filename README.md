@@ -7,4 +7,4 @@ Set a time duration<br>
 Start, pause, and reset the timer<br>
 Display remaining time<br>
 
-[Live link](nextjs1-project-oqgcys3th-areeba-projects-c9825c5e.vercel.app)
+[Live link](https://countdowntimmer-project.vercel.app/)
